@@ -3,25 +3,33 @@ body{
 }
 
 .form-control{
-    width:30%;
+    width:50%;
     position: relative;
 
-    left:35%;
+    left:25%;
     margin-bottom: 2vw;
 
 }
 #login{
-    width:10%;
+    width:22%;
     font-size: large;
     font-weight: bold;
     position:relative;
 
     
 }
-.title{
-    padding-top: 7%;
-}
+
 .logo{
-    max-width: 10%;
+    max-width: 30%;
+    padding-top: 7%;
     
+}
+.mb-3{
+    margin-top: 5vw;
+    margin-left: 35vw;
+    margin-right: 35vw;
+    padding-bottom:15vw;
+    border:gray;
+    border-style: solid;
+    border-radius: 12px;
 }
